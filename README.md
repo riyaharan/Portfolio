@@ -1,6 +1,4 @@
-
 **Repository Name:** Data Science Portfolio
-
 **Description:** A collection of data science projects showcasing academic, self-learning, and hobby endeavors. Each project is presented in the form of Jupyter notebooks, highlighting skills and insights gained.
 
 ### Machine Learning Projects
