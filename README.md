@@ -4,7 +4,7 @@
 A collection of data science projects showcasing academic, self-learning, and hobby endeavors. Each project is presented in the form of Jupyter notebooks, highlighting skills and insights gained.
 
 ### Machine Learning Projects
-1. **Europe Energy Sentiment Analysis (Python)(https://github.com/riyaharan/EuropeEnergy.ipynb)**
+1. **Europe Energy Sentiment Analysis (Python)([https://github.com/riyaharan/EuropeEnergy.ipynb](https://github.com/riyaharan/Europe-Energy_SentimentAnalysis/blob/main/EuropeEnergy.ipynb))**
 - Techniques: NLP, Sentiment Analysis
 - Description: Analysed Europe's energy crisis and transition to cleaner sources. Conducted sentiment analysis on Twitter data to gain insights into public opinion.
 
